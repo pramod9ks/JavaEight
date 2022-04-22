@@ -5,6 +5,7 @@ import java.util.stream.Stream;
 
 public class CompareTwoObjects {
     public static void main(String[] args) {
+
         Employee e1 = new Employee(1, "RAM", "BLR");
         Employee e2 = new Employee(1, "SYAM", "PAT");
         Employee e3 = new Employee(1, "RADHE", "JBP");
